@@ -188,7 +188,7 @@ function App() {
         </section>
 
         {/* Projects Section */}
-        <div className="mb-8">
+        <div className="max-w-4xl mx-auto mb-8">
             <div className="overflow-x-auto -mx-4 px-4 pb-2">
               <div className="flex space-x-1 border-b border-gray-200 min-w-max">
                 {Object.keys(projects).map((tab) => (
@@ -207,7 +207,7 @@ function App() {
               </div>
             </div>
           </div>
-          
+
         <section className="max-w-4xl mx-auto mb-16">
           <div className="flex items-center mb-6">
             <Code className="w-6 h-6 text-blue-600 mr-2" />
