@@ -115,7 +115,7 @@ function App() {
               className="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-white shadow-lg"
             />
             <h1 className="text-4xl font-bold mb-4">Sachin Makwana</h1>
-            <p className="text-xl mb-6">Software Engineer</p>
+            <p className="text-xl mb-6">Full stack developer</p>
             <div className="flex justify-center space-x-4">
               <a href="https://github.com/sachin12621" className="hover:text-blue-200 transition-colors">
                 <Github className="w-6 h-6" />
@@ -136,7 +136,7 @@ function App() {
             <h2 className="text-2xl font-bold">About Me</h2>
           </div>
           <p className="text-gray-600 leading-relaxed">
-            Passionate software engineer with 2+ years of experience in building scalable web applications.
+            Passionate full stack developer with 2+ years of experience in building scalable web applications.
             Focused on creating elegant solutions to complex problems while maintaining code quality and performance.
           </p>
         </section>
@@ -164,7 +164,7 @@ function App() {
           </div>
           <div className="space-y-6">
             <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
-              <h3 className="text-xl font-semibold mb-2">Software Engineer</h3>
+              <h3 className="text-xl font-semibold mb-2">Full stack developer</h3>
               <p className="text-gray-600 mb-2">Webile Technologies • Aug, 2022 - Present</p>
               <p className="text-gray-600">Designed and developed dynamic and responsive websites using HTML, CSS, JavaScript, React, and Core PHP. Worked with REST APIs to retrieve and display data from databases.</p>
             </div>
